@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan David
-- 👀 I’m interested in Data Analysis, Data visualization and development, python, sql, Rstudio, Tableu, among others.
+- 👀 I’m interested in Data Analysis, Data visualization and development, python, sql, Rstudio, Tableau, among others.
 - 🌱 I’m currently learning Development and cybersecurity
 - 📫 How to reach me juandapalo2000@hotmail.com or mobile: +57 3008847093
 - ✨ here is my personal portfolio https://juandapalo2.github.io/Portfolio/
